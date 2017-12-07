@@ -1,2 +1,4 @@
 50 patients
-6 rooms
+10 rooms
+50 na sakit
+10 na doctor
